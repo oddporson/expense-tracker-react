@@ -1,5 +1,5 @@
 # Expense Tracker
-A covid-19 tracking web app where users can see up-to-date statistic of infected patients, recovered patients and deceased patients by global or country. 
+An expense tracking web application that help users track their earnings and expense on a monthly basis. 
 
 ## How to get started
 
