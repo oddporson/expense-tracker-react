@@ -13,4 +13,4 @@ You will also see any lint errors in the console.
 
 ### Final Product
 
-!["screenshot of expense tracker"](https://github.com/oddporson/expense-tracker-react/blob/master/docs/main.png)
+!["screenshot of expense tracker"](https://github.com/oddporson/expense-tracker-react/blob/master/docs/expense-tracker-main.png)
